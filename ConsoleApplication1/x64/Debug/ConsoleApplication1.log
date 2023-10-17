@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+D:\projects\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(44,71): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+D:\projects\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(44,71): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+D:\projects\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+D:\projects\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+D:\projects\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(110): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+D:\projects\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(115): warning C4312: 'type cast': conversion from 'DWORD' to 'LPCVOID' of greater size
+D:\projects\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(120): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  ConsoleApplication1.vcxproj -> D:\projects\C++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
